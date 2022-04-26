@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/eduardacastro/area"
+	"github.com/eduardacastro/goarea"
 )
 
 func main() {
-	fmt.Println(area.Circulo(6.0))
+	fmt.Println(goarea.Circulo(6.0))
 	//fmt.Println(area.Retangulo(5.0, 2.0))
 }
