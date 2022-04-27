@@ -1,2 +1,4 @@
 github.com/eduardacastro/httptitulo v0.0.0-20220426142029-42d4ff0febdb h1:zZYdMcyUHn7a28WdFo649AzarB7YUqaV+PqCqPt7mJA=
 github.com/eduardacastro/httptitulo v0.0.0-20220426142029-42d4ff0febdb/go.mod h1:Rp/HGAWzEGpZT3U92wEqbS+crtbFnaxgpD3sUnNYP5o=
+github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
+github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
